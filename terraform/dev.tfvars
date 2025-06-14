@@ -1,0 +1,5 @@
+app_name            = "sample-app-dev"
+region              = "ap-south-1"
+env_name            = "dev"
+//container_image     = "nginx:latest"
+//acm_certificate_arn = ""
